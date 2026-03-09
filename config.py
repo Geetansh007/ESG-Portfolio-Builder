@@ -3,6 +3,5 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
-AZURE_OPENAI_KEY = os.getenv("AZURE_OPENAI_KEY")
-AZURE_DEPLOYMENT_NAME = os.getenv("AZURE_DEPLOYMENT_NAME")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+MODEL_BACKEND = os.getenv("MODEL_BACKEND", "openai")  # options: "openai" or "local"
