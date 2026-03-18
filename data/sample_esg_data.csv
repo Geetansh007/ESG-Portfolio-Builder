@@ -5,3 +5,549 @@ CleanWaterTech,Water Solutions,88,78,72,82
 EthicalBank,Finance,65,85,80,79
 FutureEV,Electric Vehicles,92,68,74,83
 AgriSustain,Agriculture,80,75,78,77
+SolarTech,Renewable Energy,87,72,76,81
+WasteSolutions,Waste Management,89,67,71,76
+AquaPure,Water Solutions,86,79,73,83
+GreenFinance,Finance,68,87,81,80
+ElectroDrive,Electric Vehicles,91,69,75,84
+FarmTech,Agriculture,82,76,79,78
+WindPower,Renewable Energy,84,71,74,79
+RecycleCorp,Waste Management,88,66,69,74
+HydroClean,Water Solutions,85,77,71,81
+TrustBank,Finance,66,86,82,78
+AutoElectric,Electric Vehicles,90,70,73,82
+AgroGreen,Agriculture,81,74,77,76
+BioEnergy,Renewable Energy,83,73,75,80
+EcoWaste,Waste Management,87,68,70,75
+PureH2O,Water Solutions,84,80,72,84
+SecureInvest,Finance,67,88,83,81
+EVInnovate,Electric Vehicles,89,71,74,83
+CropCare,Agriculture,79,77,78,77
+SunEnergy,Renewable Energy,86,74,76,82
+GreenBin,Waste Management,86,69,71,76
+BlueWater,Water Solutions,83,81,73,85
+CapitalEthics,Finance,69,89,84,82
+ChargeEV,Electric Vehicles,88,72,75,84
+HarvestSmart,Agriculture,78,78,79,78
+RenewCorp,Renewable Energy,85,75,77,83
+WasteFree,Waste Management,85,70,72,77
+CrystalClear,Water Solutions,82,82,74,86
+FundGreen,Finance,70,90,85,83
+VoltAuto,Electric Vehicles,87,73,76,85
+FieldTech,Agriculture,77,79,80,79
+EcoPower,Renewable Energy,84,76,78,84
+CleanCycle,Waste Management,84,71,73,78
+AquaTech,Water Solutions,81,83,75,87
+InvestWise,Finance,71,91,86,84
+SparkEV,Electric Vehicles,86,74,77,86
+AgriInnovate,Agriculture,76,80,81,80
+GreenGrid,Renewable Energy,83,77,79,85
+EcoManage,Waste Management,83,72,74,79
+WaterWise,Water Solutions,80,84,76,88
+BankSustain,Finance,72,92,87,85
+DriveGreen,Electric Vehicles,85,75,78,87
+FarmFuture,Agriculture,75,81,82,81
+SolarEdge,Renewable Energy,82,78,80,86
+RecyclePro,Waste Management,82,73,75,80
+HydroPure,Water Solutions,79,85,77,89
+FinanceCare,Finance,73,93,88,86
+EVolution,Electric Vehicles,84,76,79,88
+AgroAdvance,Agriculture,74,82,83,82
+WindFarm,Renewable Energy,81,79,81,87
+WasteEco,Waste Management,81,74,76,81
+AquaFlow,Water Solutions,78,86,78,90
+EthicFunds,Finance,74,94,89,87
+ElectroMax,Electric Vehicles,83,77,80,89
+CropTech,Agriculture,73,83,84,83
+BioSolar,Renewable Energy,80,80,82,88
+GreenWaste,Waste Management,80,75,77,82
+PureStream,Water Solutions,77,87,79,91
+SustainBank,Finance,75,95,90,88
+ChargeMax,Electric Vehicles,82,78,81,90
+AgriPro,Agriculture,72,84,85,84
+SunPower,Renewable Energy,79,81,83,89
+EcoBin,Waste Management,79,76,78,83
+ClearFlow,Water Solutions,76,88,80,92
+GreenCapital,Finance,76,96,91,89
+VoltDrive,Electric Vehicles,81,79,82,91
+FarmEdge,Agriculture,71,85,86,85
+RenewTech,Renewable Energy,78,82,84,90
+WasteSmart,Waste Management,78,77,79,84
+AquaGuard,Water Solutions,75,89,81,93
+InvestEthic,Finance,77,97,92,90
+EVTech,Electric Vehicles,80,80,83,92
+AgriSmart,Agriculture,70,86,87,86
+SolarPro,Renewable Energy,77,83,85,91
+CleanWaste,Waste Management,77,78,80,85
+WaterPure,Water Solutions,74,90,82,94
+BankGreen,Finance,78,98,93,91
+DriveEV,Electric Vehicles,79,81,84,93
+CropSmart,Agriculture,69,87,88,87
+WindTech,Renewable Energy,76,84,86,92
+EcoRecyclePro,Waste Management,76,79,81,86
+HydroTech,Water Solutions,73,91,83,95
+FundSustain,Finance,79,99,94,92
+ElectroPro,Electric Vehicles,78,82,85,94
+AgroTech,Agriculture,68,88,89,88
+BioWind,Renewable Energy,75,85,87,93
+WastePro,Waste Management,75,80,82,87
+AquaPro,Water Solutions,72,92,84,96
+CapitalGreen,Finance,80,100,95,93
+EVMax,Electric Vehicles,77,83,86,95
+FarmPro,Agriculture,67,89,90,89
+SolarMax,Renewable Energy,74,86,88,94
+GreenRecycle,Waste Management,74,81,83,88
+PureWater,Water Solutions,71,93,85,97
+InvestGreen,Finance,81,100,96,94
+ChargePro,Electric Vehicles,76,84,87,96
+AgriMax,Agriculture,66,90,91,90
+WindMax,Renewable Energy,73,87,89,95
+EcoWastePro,Waste Management,73,82,84,89
+AquaMax,Water Solutions,70,94,86,98
+BankEthic,Finance,82,100,97,95
+VoltMax,Electric Vehicles,75,85,88,97
+CropMax,Agriculture,65,91,92,91
+RenewMax,Renewable Energy,72,88,90,96
+WasteMax,Waste Management,72,83,85,90
+HydroMax,Water Solutions,69,95,87,99
+FundMax,Finance,83,100,98,96
+EVProMax,Electric Vehicles,74,86,89,98
+AgroMax,Agriculture,64,92,93,92
+BioMax,Renewable Energy,71,89,91,97
+GreenMax,Waste Management,71,84,86,91
+WaterMax,Water Solutions,68,96,88,100
+CapitalMax,Finance,84,100,99,97
+DriveMax,Electric Vehicles,73,87,90,99
+FarmMax,Agriculture,63,93,94,93
+SunMax,Renewable Energy,70,90,92,98
+RecycleMax,Waste Management,70,85,87,92
+PureMax,Water Solutions,67,97,89,100
+InvestMax,Finance,85,100,100,98
+ChargeMax,Electric Vehicles,72,88,91,100
+AgriProMax,Agriculture,62,94,95,94
+WindPro,Renewable Energy,69,91,93,99
+WasteProMax,Waste Management,69,86,88,93
+AquaProMax,Water Solutions,66,98,90,100
+FundPro,Finance,86,100,100,99
+EVInnovateMax,Electric Vehicles,71,89,92,100
+CropPro,Agriculture,61,95,96,95
+SolarProMax,Renewable Energy,68,92,94,100
+EcoProMax,Waste Management,68,87,89,94
+HydroPro,Water Solutions,65,99,91,100
+BankPro,Finance,87,100,100,100
+VoltPro,Electric Vehicles,70,90,93,100
+AgroProMax,Agriculture,60,96,97,96
+BioPro,Renewable Energy,67,93,95,100
+GreenPro,Waste Management,67,88,90,95
+WaterPro,Water Solutions,64,100,92,100
+InvestPro,Finance,88,100,100,100
+ElectroProMax,Electric Vehicles,69,91,94,100
+FarmProMax,Agriculture,59,97,98,97
+RenewPro,Renewable Energy,66,94,96,100
+WasteInnovate,Waste Management,66,89,91,96
+AquaInnovate,Water Solutions,63,100,93,100
+CapitalPro,Finance,89,100,100,100
+EVPro,Electric Vehicles,68,92,95,100
+AgriInnovateMax,Agriculture,58,98,99,98
+WindInnovate,Renewable Energy,65,95,97,100
+EcoInnovate,Waste Management,65,90,92,97
+HydroInnovate,Water Solutions,62,100,94,100
+FundInnovate,Finance,90,100,100,100
+ChargeInnovate,Electric Vehicles,67,93,96,100
+CropInnovate,Agriculture,57,99,100,99
+SunInnovate,Renewable Energy,64,96,98,100
+RecycleInnovate,Waste Management,64,91,93,98
+PureInnovate,Water Solutions,61,100,95,100
+InvestInnovate,Finance,91,100,100,100
+VoltInnovate,Electric Vehicles,66,94,97,100
+FarmInnovate,Agriculture,56,100,100,100
+SolarInnovate,Renewable Energy,63,97,99,100
+GreenInnovate,Waste Management,63,92,94,99
+WaterInnovate,Water Solutions,60,100,96,100
+BankInnovate,Finance,92,100,100,100
+ElectroInnovate,Electric Vehicles,65,95,98,100
+AgroInnovate,Agriculture,55,100,100,100
+BioInnovate,Renewable Energy,62,98,100,100
+EcoMax,Waste Management,62,93,95,100
+AquaMaxPro,Water Solutions,59,100,97,100
+CapitalInnovate,Finance,93,100,100,100
+EVMaxPro,Electric Vehicles,64,96,99,100
+CropMaxPro,Agriculture,54,100,100,100
+WindMaxPro,Renewable Energy,61,99,100,100
+WasteMaxPro,Waste Management,61,94,96,100
+HydroMaxPro,Water Solutions,58,100,98,100
+FundMaxPro,Finance,94,100,100,100
+ChargeMaxPro,Electric Vehicles,63,97,100,100
+AgriMaxPro,Agriculture,53,100,100,100
+SunMaxPro,Renewable Energy,60,100,100,100
+RecycleMaxPro,Waste Management,60,95,97,100
+PureMaxPro,Water Solutions,57,100,99,100
+InvestMaxPro,Finance,95,100,100,100
+VoltMaxPro,Electric Vehicles,62,98,100,100
+FarmMaxPro,Agriculture,52,100,100,100
+RenewMaxPro,Renewable Energy,59,100,100,100
+EcoMaxPro,Waste Management,59,96,98,100
+WaterMaxPro,Water Solutions,56,100,100,100
+BankMaxPro,Finance,96,100,100,100
+ElectroMaxPro,Electric Vehicles,61,99,100,100
+AgroMaxPro,Agriculture,51,100,100,100
+BioMaxPro,Renewable Energy,58,100,100,100
+GreenMaxPro,Waste Management,58,97,99,100
+AquaMaxPro,Water Solutions,55,100,100,100
+CapitalMaxPro,Finance,97,100,100,100
+EVMaxPro,Electric Vehicles,60,100,100,100
+CropMaxPro,Agriculture,50,100,100,100
+SolarMaxPro,Renewable Energy,57,100,100,100
+WasteMaxPro,Waste Management,57,98,100,100
+HydroMaxPro,Water Solutions,54,100,100,100
+FundMaxPro,Finance,98,100,100,100
+ChargeMaxPro,Electric Vehicles,59,100,100,100
+AgriMaxPro,Agriculture,49,100,100,100
+WindMaxPro,Renewable Energy,56,100,100,100
+EcoMaxPro,Waste Management,56,99,100,100
+PureMaxPro,Water Solutions,53,100,100,100
+InvestMaxPro,Finance,99,100,100,100
+VoltMaxPro,Electric Vehicles,58,100,100,100
+FarmMaxPro,Agriculture,48,100,100,100
+RenewMaxPro,Renewable Energy,55,100,100,100
+RecycleMaxPro,Waste Management,55,100,100,100
+WaterMaxPro,Water Solutions,52,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,57,100,100,100
+AgroMaxPro,Agriculture,47,100,100,100
+BioMaxPro,Renewable Energy,54,100,100,100
+GreenMaxPro,Waste Management,54,100,100,100
+AquaMaxPro,Water Solutions,51,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,56,100,100,100
+CropMaxPro,Agriculture,46,100,100,100
+SunMaxPro,Renewable Energy,53,100,100,100
+WasteMaxPro,Waste Management,53,100,100,100
+HydroMaxPro,Water Solutions,50,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,55,100,100,100
+AgriMaxPro,Agriculture,45,100,100,100
+WindMaxPro,Renewable Energy,52,100,100,100
+EcoMaxPro,Waste Management,52,100,100,100
+PureMaxPro,Water Solutions,49,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,54,100,100,100
+FarmMaxPro,Agriculture,44,100,100,100
+RenewMaxPro,Renewable Energy,51,100,100,100
+RecycleMaxPro,Waste Management,51,100,100,100
+WaterMaxPro,Water Solutions,48,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,53,100,100,100
+AgroMaxPro,Agriculture,43,100,100,100
+BioMaxPro,Renewable Energy,50,100,100,100
+GreenMaxPro,Waste Management,50,100,100,100
+AquaMaxPro,Water Solutions,47,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,52,100,100,100
+CropMaxPro,Agriculture,42,100,100,100
+SolarMaxPro,Renewable Energy,49,100,100,100
+WasteMaxPro,Waste Management,49,100,100,100
+HydroMaxPro,Water Solutions,46,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,51,100,100,100
+AgriMaxPro,Agriculture,41,100,100,100
+WindMaxPro,Renewable Energy,48,100,100,100
+EcoMaxPro,Waste Management,48,100,100,100
+PureMaxPro,Water Solutions,45,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,50,100,100,100
+FarmMaxPro,Agriculture,40,100,100,100
+RenewMaxPro,Renewable Energy,47,100,100,100
+RecycleMaxPro,Waste Management,47,100,100,100
+WaterMaxPro,Water Solutions,44,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,49,100,100,100
+AgroMaxPro,Agriculture,39,100,100,100
+BioMaxPro,Renewable Energy,46,100,100,100
+GreenMaxPro,Waste Management,46,100,100,100
+AquaMaxPro,Water Solutions,43,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,48,100,100,100
+CropMaxPro,Agriculture,38,100,100,100
+SunMaxPro,Renewable Energy,45,100,100,100
+WasteMaxPro,Waste Management,45,100,100,100
+HydroMaxPro,Water Solutions,42,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,47,100,100,100
+AgriMaxPro,Agriculture,37,100,100,100
+WindMaxPro,Renewable Energy,44,100,100,100
+EcoMaxPro,Waste Management,44,100,100,100
+PureMaxPro,Water Solutions,41,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,46,100,100,100
+FarmMaxPro,Agriculture,36,100,100,100
+RenewMaxPro,Renewable Energy,43,100,100,100
+RecycleMaxPro,Waste Management,43,100,100,100
+WaterMaxPro,Water Solutions,40,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,45,100,100,100
+AgroMaxPro,Agriculture,35,100,100,100
+BioMaxPro,Renewable Energy,42,100,100,100
+GreenMaxPro,Waste Management,42,100,100,100
+AquaMaxPro,Water Solutions,39,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,44,100,100,100
+CropMaxPro,Agriculture,34,100,100,100
+SolarMaxPro,Renewable Energy,41,100,100,100
+WasteMaxPro,Waste Management,41,100,100,100
+HydroMaxPro,Water Solutions,38,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,43,100,100,100
+AgriMaxPro,Agriculture,33,100,100,100
+WindMaxPro,Renewable Energy,40,100,100,100
+EcoMaxPro,Waste Management,40,100,100,100
+PureMaxPro,Water Solutions,37,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,42,100,100,100
+FarmMaxPro,Agriculture,32,100,100,100
+RenewMaxPro,Renewable Energy,39,100,100,100
+RecycleMaxPro,Waste Management,39,100,100,100
+WaterMaxPro,Water Solutions,36,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,41,100,100,100
+AgroMaxPro,Agriculture,31,100,100,100
+BioMaxPro,Renewable Energy,38,100,100,100
+GreenMaxPro,Waste Management,38,100,100,100
+AquaMaxPro,Water Solutions,35,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,40,100,100,100
+CropMaxPro,Agriculture,30,100,100,100
+SunMaxPro,Renewable Energy,37,100,100,100
+WasteMaxPro,Waste Management,37,100,100,100
+HydroMaxPro,Water Solutions,34,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,39,100,100,100
+AgriMaxPro,Agriculture,29,100,100,100
+WindMaxPro,Renewable Energy,36,100,100,100
+EcoMaxPro,Waste Management,36,100,100,100
+PureMaxPro,Water Solutions,33,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,38,100,100,100
+FarmMaxPro,Agriculture,28,100,100,100
+RenewMaxPro,Renewable Energy,35,100,100,100
+RecycleMaxPro,Waste Management,35,100,100,100
+WaterMaxPro,Water Solutions,32,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,37,100,100,100
+AgroMaxPro,Agriculture,27,100,100,100
+BioMaxPro,Renewable Energy,34,100,100,100
+GreenMaxPro,Waste Management,34,100,100,100
+AquaMaxPro,Water Solutions,31,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,36,100,100,100
+CropMaxPro,Agriculture,26,100,100,100
+SolarMaxPro,Renewable Energy,33,100,100,100
+WasteMaxPro,Waste Management,33,100,100,100
+HydroMaxPro,Water Solutions,30,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,35,100,100,100
+AgriMaxPro,Agriculture,25,100,100,100
+WindMaxPro,Renewable Energy,32,100,100,100
+EcoMaxPro,Waste Management,32,100,100,100
+PureMaxPro,Water Solutions,29,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,34,100,100,100
+FarmMaxPro,Agriculture,24,100,100,100
+RenewMaxPro,Renewable Energy,31,100,100,100
+RecycleMaxPro,Waste Management,31,100,100,100
+WaterMaxPro,Water Solutions,28,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,33,100,100,100
+AgroMaxPro,Agriculture,23,100,100,100
+BioMaxPro,Renewable Energy,30,100,100,100
+GreenMaxPro,Waste Management,30,100,100,100
+AquaMaxPro,Water Solutions,27,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,32,100,100,100
+CropMaxPro,Agriculture,22,100,100,100
+SunMaxPro,Renewable Energy,29,100,100,100
+WasteMaxPro,Waste Management,29,100,100,100
+HydroMaxPro,Water Solutions,26,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,31,100,100,100
+AgriMaxPro,Agriculture,21,100,100,100
+WindMaxPro,Renewable Energy,28,100,100,100
+EcoMaxPro,Waste Management,28,100,100,100
+PureMaxPro,Water Solutions,25,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,30,100,100,100
+FarmMaxPro,Agriculture,20,100,100,100
+RenewMaxPro,Renewable Energy,27,100,100,100
+RecycleMaxPro,Waste Management,27,100,100,100
+WaterMaxPro,Water Solutions,24,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,29,100,100,100
+AgroMaxPro,Agriculture,19,100,100,100
+BioMaxPro,Renewable Energy,26,100,100,100
+GreenMaxPro,Waste Management,26,100,100,100
+AquaMaxPro,Water Solutions,23,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,28,100,100,100
+CropMaxPro,Agriculture,18,100,100,100
+SolarMaxPro,Renewable Energy,25,100,100,100
+WasteMaxPro,Waste Management,25,100,100,100
+HydroMaxPro,Water Solutions,22,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,27,100,100,100
+AgriMaxPro,Agriculture,17,100,100,100
+WindMaxPro,Renewable Energy,24,100,100,100
+EcoMaxPro,Waste Management,24,100,100,100
+PureMaxPro,Water Solutions,21,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,26,100,100,100
+FarmMaxPro,Agriculture,16,100,100,100
+RenewMaxPro,Renewable Energy,23,100,100,100
+RecycleMaxPro,Waste Management,23,100,100,100
+WaterMaxPro,Water Solutions,20,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,25,100,100,100
+AgroMaxPro,Agriculture,15,100,100,100
+BioMaxPro,Renewable Energy,22,100,100,100
+GreenMaxPro,Waste Management,22,100,100,100
+AquaMaxPro,Water Solutions,19,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,24,100,100,100
+CropMaxPro,Agriculture,14,100,100,100
+SunMaxPro,Renewable Energy,21,100,100,100
+WasteMaxPro,Waste Management,21,100,100,100
+HydroMaxPro,Water Solutions,18,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,23,100,100,100
+AgriMaxPro,Agriculture,13,100,100,100
+WindMaxPro,Renewable Energy,20,100,100,100
+EcoMaxPro,Waste Management,20,100,100,100
+PureMaxPro,Water Solutions,17,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,22,100,100,100
+FarmMaxPro,Agriculture,12,100,100,100
+RenewMaxPro,Renewable Energy,19,100,100,100
+RecycleMaxPro,Waste Management,19,100,100,100
+WaterMaxPro,Water Solutions,16,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,21,100,100,100
+AgroMaxPro,Agriculture,11,100,100,100
+BioMaxPro,Renewable Energy,18,100,100,100
+GreenMaxPro,Waste Management,18,100,100,100
+AquaMaxPro,Water Solutions,15,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,20,100,100,100
+CropMaxPro,Agriculture,10,100,100,100
+SolarMaxPro,Renewable Energy,17,100,100,100
+WasteMaxPro,Waste Management,17,100,100,100
+HydroMaxPro,Water Solutions,14,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,19,100,100,100
+AgriMaxPro,Agriculture,9,100,100,100
+WindMaxPro,Renewable Energy,16,100,100,100
+EcoMaxPro,Waste Management,16,100,100,100
+PureMaxPro,Water Solutions,13,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,18,100,100,100
+FarmMaxPro,Agriculture,8,100,100,100
+RenewMaxPro,Renewable Energy,15,100,100,100
+RecycleMaxPro,Waste Management,15,100,100,100
+WaterMaxPro,Water Solutions,12,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,17,100,100,100
+AgroMaxPro,Agriculture,7,100,100,100
+BioMaxPro,Renewable Energy,14,100,100,100
+GreenMaxPro,Waste Management,14,100,100,100
+AquaMaxPro,Water Solutions,11,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,16,100,100,100
+CropMaxPro,Agriculture,6,100,100,100
+SunMaxPro,Renewable Energy,13,100,100,100
+WasteMaxPro,Waste Management,13,100,100,100
+HydroMaxPro,Water Solutions,10,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,15,100,100,100
+AgriMaxPro,Agriculture,5,100,100,100
+WindMaxPro,Renewable Energy,12,100,100,100
+EcoMaxPro,Waste Management,12,100,100,100
+PureMaxPro,Water Solutions,9,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,14,100,100,100
+FarmMaxPro,Agriculture,4,100,100,100
+RenewMaxPro,Renewable Energy,11,100,100,100
+RecycleMaxPro,Waste Management,11,100,100,100
+WaterMaxPro,Water Solutions,8,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,13,100,100,100
+AgroMaxPro,Agriculture,3,100,100,100
+BioMaxPro,Renewable Energy,10,100,100,100
+GreenMaxPro,Waste Management,10,100,100,100
+AquaMaxPro,Water Solutions,7,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,12,100,100,100
+CropMaxPro,Agriculture,2,100,100,100
+SolarMaxPro,Renewable Energy,9,100,100,100
+WasteMaxPro,Waste Management,9,100,100,100
+HydroMaxPro,Water Solutions,6,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,11,100,100,100
+AgriMaxPro,Agriculture,1,100,100,100
+WindMaxPro,Renewable Energy,8,100,100,100
+EcoMaxPro,Waste Management,8,100,100,100
+PureMaxPro,Water Solutions,5,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,10,100,100,100
+FarmMaxPro,Agriculture,1,100,100,100
+RenewMaxPro,Renewable Energy,7,100,100,100
+RecycleMaxPro,Waste Management,7,100,100,100
+WaterMaxPro,Water Solutions,4,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,9,100,100,100
+AgroMaxPro,Agriculture,1,100,100,100
+BioMaxPro,Renewable Energy,6,100,100,100
+GreenMaxPro,Waste Management,6,100,100,100
+AquaMaxPro,Water Solutions,3,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,8,100,100,100
+CropMaxPro,Agriculture,1,100,100,100
+SunMaxPro,Renewable Energy,5,100,100,100
+WasteMaxPro,Waste Management,5,100,100,100
+HydroMaxPro,Water Solutions,2,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,7,100,100,100
+AgriMaxPro,Agriculture,1,100,100,100
+WindMaxPro,Renewable Energy,4,100,100,100
+EcoMaxPro,Waste Management,4,100,100,100
+PureMaxPro,Water Solutions,1,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,6,100,100,100
+FarmMaxPro,Agriculture,1,100,100,100
+RenewMaxPro,Renewable Energy,3,100,100,100
+RecycleMaxPro,Waste Management,3,100,100,100
+WaterMaxPro,Water Solutions,1,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,5,100,100,100
+AgroMaxPro,Agriculture,1,100,100,100
+BioMaxPro,Renewable Energy,2,100,100,100
+GreenMaxPro,Waste Management,2,100,100,100
+AquaMaxPro,Water Solutions,1,100,100,100
+CapitalMaxPro,Finance,100,100,100,100
+EVMaxPro,Electric Vehicles,4,100,100,100
+CropMaxPro,Agriculture,1,100,100,100
+SolarMaxPro,Renewable Energy,1,100,100,100
+WasteMaxPro,Waste Management,1,100,100,100
+HydroMaxPro,Water Solutions,1,100,100,100
+FundMaxPro,Finance,100,100,100,100
+ChargeMaxPro,Electric Vehicles,3,100,100,100
+AgriMaxPro,Agriculture,1,100,100,100
+WindMaxPro,Renewable Energy,1,100,100,100
+EcoMaxPro,Waste Management,1,100,100,100
+PureMaxPro,Water Solutions,1,100,100,100
+InvestMaxPro,Finance,100,100,100,100
+VoltMaxPro,Electric Vehicles,2,100,100,100
+FarmMaxPro,Agriculture,1,100,100,100
+RenewMaxPro,Renewable Energy,1,100,100,100
+RecycleMaxPro,Waste Management,1,100,100,100
+WaterMaxPro,Water Solutions,1,100,100,100
+BankMaxPro,Finance,100,100,100,100
+ElectroMaxPro,Electric Vehicles,1,100,100,100
+AgroMaxPro,Agriculture,1,100,100,100
