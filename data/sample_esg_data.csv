@@ -1,43 +1,43 @@
-Company,Industry,E_score,S_score,G_score,Financial_score
-GreenSolar,Renewable Energy,85,70,75,80
-EcoRecycle,Waste Management,90,65,70,75
-CleanWaterTech,Water Solutions,88,78,72,82
-EthicalBank,Finance,65,85,80,79
-FutureEV,Electric Vehicles,92,68,74,83
-AgriSustain,Agriculture,80,75,78,77
-SolarTech,Renewable Energy,87,72,76,81
-WasteSolutions,Waste Management,89,67,71,76
-AquaPure,Water Solutions,86,79,73,83
-GreenFinance,Finance,68,87,81,80
-ElectroDrive,Electric Vehicles,91,69,75,84
-FarmTech,Agriculture,82,76,79,78
-WindPower,Renewable Energy,84,71,74,79
-RecycleCorp,Waste Management,88,66,69,74
-HydroClean,Water Solutions,85,77,71,81
-TrustBank,Finance,66,86,82,78
-AutoElectric,Electric Vehicles,90,70,73,82
-AgroGreen,Agriculture,81,74,77,76
-BioEnergy,Renewable Energy,83,73,75,80
-EcoWaste,Waste Management,87,68,70,75
-PureH2O,Water Solutions,84,80,72,84
-SecureInvest,Finance,67,88,83,81
-EVInnovate,Electric Vehicles,89,71,74,83
-CropCare,Agriculture,79,77,78,77
-SunEnergy,Renewable Energy,86,74,76,82
-GreenBin,Waste Management,86,69,71,76
-BlueWater,Water Solutions,83,81,73,85
-CapitalEthics,Finance,69,89,84,82
-ChargeEV,Electric Vehicles,88,72,75,84
-HarvestSmart,Agriculture,78,78,79,78
-RenewCorp,Renewable Energy,85,75,77,83
-WasteFree,Waste Management,85,70,72,77
-CrystalClear,Water Solutions,82,82,74,86
-FundGreen,Finance,70,90,85,83
-VoltAuto,Electric Vehicles,87,73,76,85
-FieldTech,Agriculture,77,79,80,79
-EcoPower,Renewable Energy,84,76,78,84
-CleanCycle,Waste Management,84,71,73,78
-AquaTech,Water Solutions,81,83,75,87
+Company,Industry,E_score,S_score,G_score,Financial_score,Price_3Y_Ago,Price_1Y_Ago,Current_Price,Dividends_3Y,Dividends_1Y
+GreenSolar,Renewable Energy,85,70,75,80,100,130,150,6,2
+EcoRecycle,Waste Management,90,65,70,75,50,60,70,3,1
+CleanWaterTech,Water Solutions,88,78,72,82,80,100,120,4,2
+EthicalBank,Finance,65,85,80,79,200,220,250,12,4
+FutureEV,Electric Vehicles,92,68,74,83,60,90,120,2,1
+AgriSustain,Agriculture,80,75,78,77,40,55,65,2,1
+SolarTech,Renewable Energy,77,62,66,71,90,120,140,5,2
+WasteSolutions,Waste Management,79,57,61,66,45,55,65,2,1
+AquaPure,Water Solutions,66,89,53,73,70,90,110,3,1
+GreenFinance,Finance,88,57,61,70,180,210,240,10,3
+ElectroDrive,Electric Vehicles,71,89,65,74,55,85,115,2,1
+FarmTech,Agriculture,62,86,69,78,35,50,60,2,1
+WindPower,Renewable Energy,94,81,64,89,95,125,145,5,2
+RecycleCorp,Waste Management,68,86,59,84,48,58,68,2,1
+HydroClean,Water Solutions,75,97,61,91,75,95,115,3,1
+TrustBank,Finance,96,66,72,68,190,215,245,11,3
+AutoElectric,Electric Vehicles,80,80,80,80,58,88,118,2,1
+AgroGreen,Agriculture,91,64,77,86,38,53,63,2,1
+BioEnergy,Renewable Energy,73,83,85,80,92,122,142,5,2
+EcoWaste,Waste Management,97,58,80,85,47,57,67,2,1
+PureH2O,Water Solutions,74,90,82,84,72,92,112,3,1
+SecureInvest,Finance,77,98,63,81,185,212,242,10,3
+EVInnovate,Electric Vehicles,79,81,82,83,57,87,117,2,1
+CropCare,Agriculture,69,87,78,77,36,51,61,2,1
+SunEnergy,Renewable Energy,86,74,76,82,93,123,143,5,2
+GreenBin,Waste Management,86,69,71,76,46,56,66,2,1
+BlueWater,Water Solutions,83,81,73,85,73,93,113,3,1
+CapitalEthics,Finance,69,89,84,82,182,213,243,10,3
+ChargeEV,Electric Vehicles,88,72,75,84,56,86,116,2,1
+HarvestSmart,Agriculture,78,78,79,78,34,49,59,2,1
+RenewCorp,Renewable Energy,65,85,77,73,91,121,141,4,2
+WasteFree,Waste Management,75,80,72,77,44,54,64,2,1
+CrystalClear,Water Solutions,82,82,74,86,71,91,111,3,1
+FundGreen,Finance,70,90,85,83,181,211,241,10,3
+VoltAuto,Electric Vehicles,87,73,76,85,59,89,119,2,1
+FieldTech,Agriculture,77,79,80,79,33,48,58,2,1
+EcoPower,Renewable Energy,84,76,78,84,94,124,144,5,2
+CleanCycle,Waste Management,84,71,73,78,43,53,63,2,1
+AquaTech,Water Solutions,81,83,75,87,74,94,114,3,1
 InvestWise,Finance,71,91,86,84
 SparkEV,Electric Vehicles,86,74,77,86
 AgriInnovate,Agriculture,76,80,81,80
@@ -182,27 +182,27 @@ AgriMaxPro,Agriculture,53,100,100,100
 SunMaxPro,Renewable Energy,60,100,100,100
 RecycleMaxPro,Waste Management,60,95,97,100
 PureMaxPro,Water Solutions,57,100,99,100
-InvestMaxPro,Finance,95,100,100,100
-VoltMaxPro,Electric Vehicles,62,98,100,100
-FarmMaxPro,Agriculture,52,100,100,100
-RenewMaxPro,Renewable Energy,59,100,100,100
-EcoMaxPro,Waste Management,59,96,98,100
-WaterMaxPro,Water Solutions,56,100,100,100
-BankMaxPro,Finance,96,100,100,100
-ElectroMaxPro,Electric Vehicles,61,99,100,100
-AgroMaxPro,Agriculture,51,100,100,100
-BioMaxPro,Renewable Energy,58,100,100,100
-GreenMaxPro,Waste Management,58,97,99,100
-AquaMaxPro,Water Solutions,55,100,100,100
-CapitalMaxPro,Finance,97,100,100,100
-EVMaxPro,Electric Vehicles,60,100,100,100
-CropMaxPro,Agriculture,50,100,100,100
-SolarMaxPro,Renewable Energy,57,100,100,100
-WasteMaxPro,Waste Management,57,98,100,100
-HydroMaxPro,Water Solutions,54,100,100,100
-FundMaxPro,Finance,98,100,100,100
-ChargeMaxPro,Electric Vehicles,59,100,100,100
-AgriMaxPro,Agriculture,49,100,100,100
+FundMaxPro,Finance,94,99,97,98
+InvestMaxPro,Finance,95,98,96,97
+BankMaxPro,Finance,96,97,95,96
+CapitalMaxPro,Finance,97,96,94,95
+FundMaxPro,Finance,93,95,93,94
+InvestMaxPro,Finance,92,94,92,93
+BankMaxPro,Finance,91,93,91,92
+CapitalMaxPro,Finance,90,92,90,91
+FundMaxPro,Finance,89,91,89,90
+InvestMaxPro,Finance,88,90,88,89
+BankMaxPro,Finance,87,89,87,88
+CapitalMaxPro,Finance,86,88,86,87
+FundMaxPro,Finance,85,87,85,86
+InvestMaxPro,Finance,84,86,84,85
+BankMaxPro,Finance,83,85,83,84
+CapitalMaxPro,Finance,82,84,82,83
+FundMaxPro,Finance,81,83,81,82
+InvestMaxPro,Finance,80,82,80,81
+BankMaxPro,Finance,79,81,79,80
+CapitalMaxPro,Finance,78,80,78,79
+FundMaxPro,Finance,77,79,77,78
 WindMaxPro,Renewable Energy,56,100,100,100
 EcoMaxPro,Waste Management,56,99,100,100
 PureMaxPro,Water Solutions,53,100,100,100
